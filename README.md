@@ -96,9 +96,9 @@ Note: Remember to enter the path of dataset folders in place of double quotation
 
 #### 2. Pretrained Model : MobileNet V2
 
-![MobileNet-V2](/static/img/mobilenetv2.png)
+![MobileNetV2](/static/img/mobilenetv2.png)
 
-[MobileNet-V2] is a convolutional neural network that is 53 layers deep. It is a light-weight model, that uses Depthwise Separable Convolution Layers to reduce the complexity cost, which is suitable to be used on mobile devices or devices with low computation power.
+[MobileNetV2] is a convolutional neural network that is 53 layers deep. It is a light-weight model, that uses Depthwise Separable Convolution Layers to reduce the complexity cost, which is suitable to be used on mobile devices or devices with low computation power.
 You can load a pretrained version of the network trained on more than a million images from the ImageNet database. However for our use, we have trained the model on our custom dataset with 2 output labels instead of 1000.
 
 ## Setup
@@ -173,7 +173,11 @@ your preferred browser.
 
 ## Additional Resources
 
-> Refer the following resource for Deployment of Docker Image With Azure Web Services:
+> Refer the following resource for Hyperparameter Tuning:
+> https://www.tensorflow.org/api_docs/python/tf/keras/callbacks/Callback
+> https://www.tensorflow.org/tensorboard/hyperparameter_tuning_with_hparams
+
+> Refer the following resource for Deployment of Docker Image With Azure App Services:
 > https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/
 
 ## Downloads
@@ -199,7 +203,7 @@ Apache License 2.0
 [Flask]: http://flask.pocoo.org/
 [Docker]: https://www.docker.com/
 [Numpy]: https://www.numpy.org/
-[MobileNet-V2]:[https://towardsdatascience.com/review-mobilenetv2-light-weight-model-image-classification-8febb490e61c](https://towardsdatascience.com/review-mobilenetv2-light-weight-model-image-classification-8febb490e61c)
+[MobileNetV2]:[https://towardsdatascience.com/review-mobilenetv2-light-weight-model-image-classification-8febb490e61c](https://towardsdatascience.com/review-mobilenetv2-light-weight-model-image-classification-8febb490e61c)
 [Web Scrapper Program]:<crawler.py>
 [Preprocess_1]:<preprocess.py>
 [Preprocess_2]:<preprocess2.py>
