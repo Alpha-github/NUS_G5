@@ -1,10 +1,5 @@
 Flask
 numpy
 pandas
-opencv-python
-scikit-learn
-pillow
-scipy
-statistics
-scikit-image
-tensorflow
+opencv-python-headless
+tensorflow-cpu
