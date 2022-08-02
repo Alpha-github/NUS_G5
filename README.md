@@ -39,14 +39,14 @@ The Web App Interface is Created using Flask, Containerized using Docker and Hos
 
 FreshLite utilizes several libraries and platforms (mostly Open Source) to operate seemlessly:
 
-* [Python] - Python is a high-level, interpreted, general-purpose programming language. It was designed for readability and is a cross-platform, interpreted, object-oriented programming language that is perfectly suited for Rapid Application Development, scripting, and connecting existing components together.
-* [Tensorflow][Tensorflow] - TensorFlow is an end-to-end platform that makes it easy for you to build and deploy ML models. TensorFlow offers multiple levels of abstraction so you can choose the right one for your needs.
-* [Keras] - Keras is an open-source software library that provides a Python interface for artificial neural networks. Keras acts as an interface for the TensorFlow library.
-* [Flask] - Flask is a small and lightweight Python web framework that provides useful tools and features that make creating web applications in Python easier. It gives developers flexibility and is a more accessible framework for new developers since you can build a web application quickly using only a single Python file.
-* [OpenCV][OpenCV] - OpenCV is a great tool for image processing and performing computer vision tasks. It is an open-source library that can be used to perform tasks like face detection, objection tracking, landmark detection, and much more.
-* [Numpy] - NumPy is a library for the Python programming language which provides additional support for processing large, multi-dimensional arrays and matrices.
-* [Azure][Azure] - Azure is Microsoft's public cloud computing platform, with solutions including Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS) that can be used for services such as analytics, virtual computing, storage, networking, and much more.
-* [Docker] - Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. Docker enables you to separate your applications from your infrastructure so you can deliver software quickly.
+- [Python](https://www.python.org/) - Python is a high-level, interpreted, general-purpose programming language. It was designed for readability and is a cross-platform, interpreted, object-oriented programming language that is perfectly suited for Rapid Application Development, scripting, and connecting existing components together.
+- [Tensorflow][Tensorflow] - TensorFlow is an end-to-end platform that makes it easy for you to build and deploy ML models. TensorFlow offers multiple levels of abstraction so you can choose the right one for your needs.
+- [Keras](https://keras.io/) - Keras is an open-source software library that provides a Python interface for artificial neural networks. Keras acts as an interface for the TensorFlow library.
+- [Flask](http://flask.pocoo.org/) - Flask is a small and lightweight Python web framework that provides useful tools and features that make creating web applications in Python easier. It gives developers flexibility and is a more accessible framework for new developers since you can build a web application quickly using only a single Python file.
+- [OpenCV][OpenCV] - OpenCV is a great tool for image processing and performing computer vision tasks. It is an open-source library that can be used to perform tasks like face detection, objection tracking, landmark detection, and much more.
+- [Numpy](https://www.numpy.org/) - NumPy is a library for the Python programming language which provides additional support for processing large, multi-dimensional arrays and matrices.
+- [Azure][Azure] - Azure is Microsoft's public cloud computing platform, with solutions including Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS) that can be used for services such as analytics, virtual computing, storage, networking, and much more.
+- [Docker](https://www.docker.com/) - Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. Docker enables you to separate your applications from your infrastructure so you can deliver software quickly.
 
 ## Datasets
 
@@ -194,25 +194,25 @@ gh repo clone Alpha-github/NUS_G5_Internship
 
 Apache License 2.0
 
-[Keras]: [https://keras.io/](https://keras.io/)
-[Python]: [https://www.python.org/](https://www.python.org/)
-[Flask]: [http://flask.pocoo.org/](http://flask.pocoo.org/)
-[Docker]: [https://www.docker.com/](https://www.docker.com/)
-[Numpy]: [https://www.numpy.org/](https://www.numpy.org/)
-[MobileNet-V2]: [https://towardsdatascience.com/review-mobilenetv2-light-weight-model-image-classification-8febb490e61c](https://towardsdatascience.com/review-mobilenetv2-light-weight-model-image-classification-8febb490e61c)
+[Keras]:[https://keras.io/](https://keras.io/)
+[Python]:[https://www.python.org/](https://www.python.org/)
+[Flask]:[http://flask.pocoo.org/](http://flask.pocoo.org/)
+[Docker]:[https://www.docker.com/](https://www.docker.com/)
+[Numpy]:[https://www.numpy.org/](https://www.numpy.org/)
+[MobileNet-V2]:[https://towardsdatascience.com/review-mobilenetv2-light-weight-model-image-classification-8febb490e61c](https://towardsdatascience.com/review-mobilenetv2-light-weight-model-image-classification-8febb490e61c)
 [Web Scrapper Program]:<crawler.py>
-[Preprocess_1]: <preprocess.py>
-[Preprocess_2]: <preprocess2.py>
-[Custom Models]: <mod3.ipynb>
-[app.py]: <app.py>
+[Preprocess_1]:<preprocess.py>
+[Preprocess_2]:<preprocess2.py>
+[Custom Models]:<mod3.ipynb>
+[app.py]:<app.py>
 [Dockerfile]:`<Dockerfile>`
-[Introduction To Convolution Neural Network]: [https://towardsdatascience.com/introduction-to-convolutional-neural-network-cnn-de73f69c5b83#:~:text=Dense%20Layer%20is%20simple%20layer,multiple%20number%20of%20such%20neurons.](https://towardsdatascience.com/introduction-to-convolutional-neural-network-cnn-de73f69c5b83#:~:text=Dense%20Layer%20is%20simple%20layer,multiple%20number%20of%20such%20neurons.)
-[Dropout]: [https://machinelearningmastery.com/dropout-for-regularizing-deep-neural-networks/](https://machinelearningmastery.com/dropout-for-regularizing-deep-neural-networks/)
-[Droput For Regularizing Deep Neural Networks]: [https://machinelearningmastery.com/dropout-for-regularizing-deep-neural-networks/](https://machinelearningmastery.com/dropout-for-regularizing-deep-neural-networks/)
+[Introduction To Convolution Neural Network]:[https://towardsdatascience.com/introduction-to-convolutional-neural-network-cnn-de73f69c5b83#:~:text=Dense%20Layer%20is%20simple%20layer,multiple%20number%20of%20such%20neurons.](https://towardsdatascience.com/introduction-to-convolutional-neural-network-cnn-de73f69c5b83#:~:text=Dense%20Layer%20is%20simple%20layer,multiple%20number%20of%20such%20neurons.)
+[Dropout]:[https://machinelearningmastery.com/dropout-for-regularizing-deep-neural-networks/](https://machinelearningmastery.com/dropout-for-regularizing-deep-neural-networks/)
+[Droput For Regularizing Deep Neural Networks]:[https://machinelearningmastery.com/dropout-for-regularizing-deep-neural-networks/](https://machinelearningmastery.com/dropout-for-regularizing-deep-neural-networks/)
 [Pip Installation]:[https://www.geeksforgeeks.org/how-to-install-pip-on-windows/#:~:text=Step%201%3A%20Download%20the%20get,where%20the%20above%20file%20exists.&amp;text=Step%204%3A%20Now%20wait%20through%20the%20installation%20process.](https://www.geeksforgeeks.org/how-to-install-pip-on-windows/#:~:text=Step%201%3A%20Download%20the%20get,where%20the%20above%20file%20exists.&text=Step%204%3A%20Now%20wait%20through%20the%20installation%20process.)
-[Fresh and Stale Images of Fruits and Vegetables]: [https://www.kaggle.com/datasets/raghavrpotdar/fresh-and-stale-images-of-fruits-and-vegetables](https://www.kaggle.com/datasets/raghavrpotdar/fresh-and-stale-images-of-fruits-and-vegetables)
-[Fruits fresh and rotten for classification]: [https://www.kaggle.com/datasets/sriramr/fruits-fresh-and-rotten-for-classification](https://www.kaggle.com/datasets/sriramr/fruits-fresh-and-rotten-for-classification)
-[Click to go to Python 3.9.13 Download Page]: [https://www.python.org/downloads/release/python-3913/](https://www.python.org/downloads/release/python-3913/)
+[Fresh and Stale Images of Fruits and Vegetables]:[https://www.kaggle.com/datasets/raghavrpotdar/fresh-and-stale-images-of-fruits-and-vegetables](https://www.kaggle.com/datasets/raghavrpotdar/fresh-and-stale-images-of-fruits-and-vegetables)
+[Fruits fresh and rotten for classification]:[https://www.kaggle.com/datasets/sriramr/fruits-fresh-and-rotten-for-classification](https://www.kaggle.com/datasets/sriramr/fruits-fresh-and-rotten-for-classification)
+[Click to go to Python 3.9.13 Download Page]:[https://www.python.org/downloads/release/python-3913/](https://www.python.org/downloads/release/python-3913/)
 
 [Tensorflow]: https://www.tensorflow.org/
 [Azure]: https://azure.microsoft.com/
