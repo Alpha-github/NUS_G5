@@ -39,7 +39,7 @@ The Web App Interface is Created using Flask, Containerized using Docker and Hos
 
 FreshLite utilizes several libraries and platforms (mostly Open Source) to operate seemlessly:
 
-- [Python](https://www.python.org/) - Python is a high-level, interpreted, general-purpose programming language. It was designed for readability and is a cross-platform, interpreted, object-oriented programming language that is perfectly suited for Rapid Application Development, scripting, and connecting existing components together.
+- [Python][Python] - Python is a high-level, interpreted, general-purpose programming language. It was designed for readability and is a cross-platform, interpreted, object-oriented programming language that is perfectly suited for Rapid Application Development, scripting, and connecting existing components together.
 - [Tensorflow][Tensorflow] - TensorFlow is an end-to-end platform that makes it easy for you to build and deploy ML models. TensorFlow offers multiple levels of abstraction so you can choose the right one for your needs.
 - [Keras](https://keras.io/) - Keras is an open-source software library that provides a Python interface for artificial neural networks. Keras acts as an interface for the TensorFlow library.
 - [Flask](http://flask.pocoo.org/) - Flask is a small and lightweight Python web framework that provides useful tools and features that make creating web applications in Python easier. It gives developers flexibility and is a more accessible framework for new developers since you can build a web application quickly using only a single Python file.
@@ -214,7 +214,7 @@ Apache License 2.0
 [Fruits fresh and rotten for classification]:[https://www.kaggle.com/datasets/sriramr/fruits-fresh-and-rotten-for-classification](https://www.kaggle.com/datasets/sriramr/fruits-fresh-and-rotten-for-classification)
 [Click to go to Python 3.9.13 Download Page]:[https://www.python.org/downloads/release/python-3913/](https://www.python.org/downloads/release/python-3913/)
 
+
 [Tensorflow]: https://www.tensorflow.org/
 [Azure]: https://azure.microsoft.com/
-
 [OpenCV]: https://opencv.org/
