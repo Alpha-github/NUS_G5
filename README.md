@@ -75,7 +75,7 @@ Note: Remember to enter the path of dataset folders in place of double quotation
 
 #### 1. [Custom Models] :
 
-![Custom Models](static\img\Custom_Model.drawio.png)
+![Custom Models](static/img/Custom_Model.drawio.png)
 
 ##### Layers:
 
@@ -96,7 +96,7 @@ Note: Remember to enter the path of dataset folders in place of double quotation
 
 #### 2. Pretrained Model : MobileNet V2
 
-![MobileNet-V2](https://www.researchgate.net/publication/350152088/figure/fig1/AS:1002717703045121@1616077938892/The-proposed-MobileNetV2-network-architecture.png)
+[![MobileNet-V2](https://www.researchgate.net/publication/350152088/figure/fig1/AS:1002717703045121@1616077938892/The-proposed-MobileNetV2-network-architecture.png)](https://towardsdatascience.com/review-mobilenetv2-light-weight-model-image-classification-8febb490e61c)
 
 [MobileNet-V2] is a convolutional neural network that is 53 layers deep. It is a light-weight model, that uses Depthwise Separable Convolution Layers to reduce the complexity cost, which is suitable to be used on mobile devices or devices with low computation power.
 You can load a pretrained version of the network trained on more than a million images from the ImageNet database. However for our use, we have trained the model on our custom dataset with 2 output labels instead of 1000.
@@ -194,7 +194,6 @@ gh repo clone Alpha-github/NUS_G5_Internship
 
 Apache License 2.0
 
-[//]: #
    [Tensorflow]: [https://www.tensorflow.org/](https://www.tensorflow.org/)
    [Azure]: [https://azure.microsoft.com/](https://azure.microsoft.com/)
    [OpenCV]: [https://opencv.org/](https://opencv.org/)
