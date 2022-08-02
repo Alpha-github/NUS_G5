@@ -26,27 +26,27 @@ The Web App Interface is Created using Flask, Containerized using Docker and Hos
 ## Table Of Contents
 
 - #### [Introduction](#introduction)
-- #### [Technologies](#technologies)
-- #### [Datasets](#datasets)
-- #### [Data Preprocessing](#data-preprocessing)
-- #### [Neural Network Architecture](#neural-network-architecture)
-- #### [Setup](#setup)
-- #### [Docker Deployment](#docker-deployment)
-- #### [Additional Resources](#additional-resources)
-- #### [Downloads](#downloads)
+- #### [Technologies](#technologies-1)
+- #### [Datasets](#datasets-1)
+- #### [Data Preprocessing](#data-preprocessing-1)
+- #### [Neural Network Architecture](#neural-network-architecture-1)
+- #### [Setup](#setup-1)
+- #### [Docker Deployment](#docker-deployment-1)
+- #### [Additional Resources](#additional-resources-1)
+- #### [Downloads](#downloads-1)
 
 ## Technologies
 
 FreshLite utilizes several libraries and platforms (mostly Open Source) to operate seemlessly:
 
-* [Python] :- Python is a high-level, interpreted, general-purpose programming language. It was designed for readability and is a cross-platform, interpreted, object-oriented programming language that is perfectly suited for Rapid Application Development, scripting, and connecting existing components together.
-* [Tensorflow] :- TensorFlow is an end-to-end platform that makes it easy for you to build and deploy ML models. TensorFlow offers multiple levels of abstraction so you can choose the right one for your needs.
-* [Keras] :- Keras is an open-source software library that provides a Python interface for artificial neural networks. Keras acts as an interface for the TensorFlow library.
-* [Flask] :- Flask is a small and lightweight Python web framework that provides useful tools and features that make creating web applications in Python easier. It gives developers flexibility and is a more accessible framework for new developers since you can build a web application quickly using only a single Python file.
-* [OpenCV] :- OpenCV is a great tool for image processing and performing computer vision tasks. It is an open-source library that can be used to perform tasks like face detection, objection tracking, landmark detection, and much more.
-* [Numpy] :- NumPy is a library for the Python programming language which provides additional support for processing large, multi-dimensional arrays and matrices.
-* [Azure] :- Azure is Microsoft's public cloud computing platform, with solutions including Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS) that can be used for services such as analytics, virtual computing, storage, networking, and much more.
-* [Docker] :- Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. Docker enables you to separate your applications from your infrastructure so you can deliver software quickly.
+* **[Python]** :- Python is a high-level, interpreted, general-purpose programming language. It was designed for readability and is a cross-platform, interpreted, object-oriented programming language that is perfectly suited for Rapid Application Development, scripting, and connecting existing components together.
+* **[Tensorflow]** :- TensorFlow is an end-to-end platform that makes it easy for you to build and deploy ML models. TensorFlow offers multiple levels of abstraction so you can choose the right one for your needs.
+* **[Keras]** :- Keras is an open-source software library that provides a Python interface for artificial neural networks. Keras acts as an interface for the TensorFlow library.
+* **[Flask]** :- Flask is a small and lightweight Python web framework that provides useful tools and features that make creating web applications in Python easier. It gives developers flexibility and is a more accessible framework for new developers since you can build a web application quickly using only a single Python file.
+* **[OpenCV]** :- OpenCV is a great tool for image processing and performing computer vision tasks. It is an open-source library that can be used to perform tasks like face detection, objection tracking, landmark detection, and much more.
+* **[Numpy]** :- NumPy is a library for the Python programming language which provides additional support for processing large, multi-dimensional arrays and matrices.
+* **[Azure]** :- Azure is Microsoft's public cloud computing platform, with solutions including Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS) that can be used for services such as analytics, virtual computing, storage, networking, and much more.
+* **[Docker]** :- Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. Docker enables you to separate your applications from your infrastructure so you can deliver software quickly.
 
 ## Datasets
 
