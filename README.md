@@ -205,14 +205,14 @@ Apache License 2.0
 [Preprocess_2]:<preprocess2.py>
 [Custom Models]:<mod3.ipynb>
 [app.py]:<app.py>
-[Dockerfile]:`<Dockerfile>`
+[Dockerfile]: Dockerfile
 [Introduction To Convolution Neural Network]: https://towardsdatascience.com/introduction-to-convolutional-neural-network-cnn-de73f69c5b83#:~:text=Dense%20Layer%20is%20simple%20layer,multiple%20number%20of%20such%20neurons.
-[Dropout]:[https://machinelearningmastery.com/dropout-for-regularizing-deep-neural-networks/](https://machinelearningmastery.com/dropout-for-regularizing-deep-neural-networks/)
+[Dropout]: https://machinelearningmastery.com/dropout-for-regularizing-deep-neural-networks/
 [Droput For Regularizing Deep Neural Networks]: https://machinelearningmastery.com/dropout-for-regularizing-deep-neural-networks/
-[Pip Installation]:[https://www.geeksforgeeks.org/how-to-install-pip-on-windows/#:~:text=Step%201%3A%20Download%20the%20get,where%20the%20above%20file%20exists.&amp;text=Step%204%3A%20Now%20wait%20through%20the%20installation%20process.](https://www.geeksforgeeks.org/how-to-install-pip-on-windows/#:~:text=Step%201%3A%20Download%20the%20get,where%20the%20above%20file%20exists.&text=Step%204%3A%20Now%20wait%20through%20the%20installation%20process.)
-[Fresh and Stale Images of Fruits and Vegetables]:[https://www.kaggle.com/datasets/raghavrpotdar/fresh-and-stale-images-of-fruits-and-vegetables](https://www.kaggle.com/datasets/raghavrpotdar/fresh-and-stale-images-of-fruits-and-vegetables)
-[Fruits fresh and rotten for classification]:[https://www.kaggle.com/datasets/sriramr/fruits-fresh-and-rotten-for-classification](https://www.kaggle.com/datasets/sriramr/fruits-fresh-and-rotten-for-classification)
-[Click to go to Python 3.9.13 Download Page]:[https://www.python.org/downloads/release/python-3913/](https://www.python.org/downloads/release/python-3913/)
+[Pip Installation]: https://www.geeksforgeeks.org/how-to-install-pip-on-windows/#:~:text=Step%201%3A%20Download%20the%20get,where%20the%20above%20file%20exists.&text=Step%204%3A%20Now%20wait%20through%20the%20installation%20process.
+[Fresh and Stale Images of Fruits and Vegetables]: https://www.kaggle.com/datasets/raghavrpotdar/fresh-and-stale-images-of-fruits-and-vegetables
+[Fruits fresh and rotten for classification]: https://www.kaggle.com/datasets/sriramr/fruits-fresh-and-rotten-for-classification
+[Click to go to Python 3.9.13 Download Page]: https://www.python.org/downloads/release/python-3913/
 
 [Tensorflow]: https://www.tensorflow.org/
 [Azure]: https://azure.microsoft.com/
