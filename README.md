@@ -39,7 +39,7 @@ The Web App Interface is Created using Flask, Containerized using Docker and Hos
 
 FreshLite utilizes several libraries and platforms (mostly Open Source) to operate seemlessly:
 
-* **[Python]()** :- Python is a high-level, interpreted, general-purpose programming language. It was designed for readability and is a cross-platform, interpreted, object-oriented programming language that is perfectly suited for Rapid Application Development, scripting, and connecting existing components together.
+* **[Python]** :- Python is a high-level, interpreted, general-purpose programming language. It was designed for readability and is a cross-platform, interpreted, object-oriented programming language that is perfectly suited for Rapid Application Development, scripting, and connecting existing components together.
 * **[Tensorflow]** :- TensorFlow is an end-to-end platform that makes it easy for you to build and deploy ML models. TensorFlow offers multiple levels of abstraction so you can choose the right one for your needs.
 * **[Keras]** :- Keras is an open-source software library that provides a Python interface for artificial neural networks. Keras acts as an interface for the TensorFlow library.
 * **[Flask]** :- Flask is a small and lightweight Python web framework that provides useful tools and features that make creating web applications in Python easier. It gives developers flexibility and is a more accessible framework for new developers since you can build a web application quickly using only a single Python file.
@@ -194,14 +194,14 @@ gh repo clone Alpha-github/NUS_G5_Internship
 
 Apache License 2.0
 
-   [Tensorflow]: [https://www.tensorflow.org/](https://www.tensorflow.org/](https://www.tensorflow.org/%5D(https://www.tensorflow.org/)
-   [Azure]: [https://azure.microsoft.com/](https://azure.microsoft.com/](https://azure.microsoft.com/%5D(https://azure.microsoft.com/)
-   [OpenCV]: [https://opencv.org/](https://opencv.org/](https://opencv.org/%5D(https://opencv.org/)
-   [Keras]: [https://keras.io/](https://keras.io/](https://keras.io/%5D(https://keras.io/)
-   [Python]: [https://www.python.org/](https://www.python.org/](https://www.python.org/%5D(https://www.python.org/)
-   [Flask]: [http://flask.pocoo.org/](http://flask.pocoo.org/](http://flask.pocoo.org/%5D(http://flask.pocoo.org/)
-   [Docker]: [https://www.docker.com/](https://www.docker.com/](https://www.docker.com/%5D(https://www.docker.com/)
-   [Numpy]: [https://www.numpy.org/](https://www.numpy.org/](https://www.numpy.org/%5D(https://www.numpy.org/)
+   [Tensorflow]: [https://www.tensorflow.org/](https://www.tensorflow.org/)
+   [Azure]: [https://azure.microsoft.com/](https://azure.microsoft.com/)
+   [OpenCV]: [https://opencv.org/](https://opencv.org/)
+   [Keras]: [https://keras.io/](https://keras.io/)
+   [Python]: [https://www.python.org/](https://www.python.org/)
+   [Flask]: [http://flask.pocoo.org/](http://flask.pocoo.org/)
+   [Docker]: [https://www.docker.com/](https://www.docker.com/)
+   [Numpy]: [https://www.numpy.org/](https://www.numpy.org/)
    [MobileNet-V2]: [https://towardsdatascience.com/review-mobilenetv2-light-weight-model-image-classification-8febb490e61c](https://towardsdatascience.com/review-mobilenetv2-light-weight-model-image-classification-8febb490e61c)
    [Web Scrapper Program]:<crawler.py>
    [Preprocess_1]: <preprocess.py>
